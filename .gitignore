@@ -1,0 +1,5 @@
+.idea
+*.html
+*.ipynb_checkpoints
+data/HAM10000
+HAM10000.zip
